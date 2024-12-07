@@ -1,0 +1,102 @@
+[
+    {
+        "question": "Что такое Python?",
+        "options": [
+            "Язык программирования",
+            "Тип данных",
+            "Музыкальный инструмент",
+            "Змея на английском"
+        ],
+        "correct_option": 0
+    },
+    {
+        "question": "Какой тип данных используется для хранения целых чисел?",
+        "options": [
+            "int",
+            "float",
+            "str",
+            "natural"
+        ],
+        "correct_option": 0
+    },
+    {
+        "question": "Какая типизация используется Python?",
+        "options": [
+            "Строгая статическая",
+            "Строгая динамическая",
+            "Нестрогая динамическая",
+            "Нестрогая статическая"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question": "Какая функция используется для вывода данных в Python?",
+        "options": [
+            "func",
+            "echo",
+            "print",
+            "_echo"
+        ],
+        "correct_option": 2
+    },
+    {
+        "question": "Какой тип данных имеет результат input()?",
+        "options": [
+            "int",
+            "class",
+            "type",
+            "str"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question": "Как правильно объявить переменную в Python?",
+        "options": [
+            "let int = 4",
+            "$num = 4",
+            "int y = 4",
+            "num = 4"
+        ],
+        "correct_option": 3
+    },
+    {
+        "question": "Какой из оператор является бинарным?",
+        "options": [
+            "^",
+            ">",
+            "AND",
+            "OR"
+        ],
+        "correct_option": 0
+    },
+    {
+        "question": "Какой метод преобразует число в строку?",
+        "options": [
+            "lower_case()",
+            "str()",
+            "make_word",
+            "integer_to_words()"
+        ],
+        "correct_option": 1
+    },
+    {
+        "question": "Как объявить функцию в Python?",
+        "options": [
+            "def name():",
+            "function name():{}",
+            "name = function()",
+            "func(name):"
+        ],
+        "correct_option": 0
+    },
+    {
+        "question": "Какой код вызовет синтаксическую ошибку?",
+        "options": [
+            "9name = 9",
+            "[i for i in range(10)]",
+            "h1 = True",
+            "lambda x: print(x)"
+        ],
+        "correct_option": 0
+    }
+]
